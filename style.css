@@ -1,0 +1,76 @@
+body
+{
+    font-family: sans-serif;
+   font-style: italic;
+}
+#Home
+{
+    background-color: red;
+}
+#Shows
+{
+    background-color: black;
+}
+#PPV
+{
+    background-color:gold ;
+}
+section
+{
+   min-height:80vh ;
+   
+}
+form
+{
+    padding:60px ;
+   background-color: red;
+    border-radius: 30px;
+ 
+}
+.card
+{
+   height: 300px; 
+   width: 250px;
+  color: black;
+  /* background-color:rgb(223, 217, 217);*/
+   border:none ;
+   box-shadow: 15px 20px 20px rgba(0, 0, 0, .3),inset 4px 4px 10px white;
+   justify-content:center;
+   align-items:center ;
+   border-radius:20px !important;
+   margin: 20px 60px;
+   overflow: hidden;
+}
+.card:hover
+{
+    box-shadow:inset 5px 5px 10px rgba(0, 0, 0, .3),inset -4px -4px 10px white;
+    transition: .3s;
+}
+#Championships
+{
+background-color: black;
+}
+#Superstars
+{
+    background-color: red;
+}
+.form-group label
+{
+    color: black;
+}
+ul li
+{
+    font-weight: bold;
+}
+footer
+{
+    background-color: black;
+    color: white;
+    
+}
+#About h4
+{
+    line-height:39px ;
+    letter-spacing:2px ;
+    word-spacing:6px ;
+}
